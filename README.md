@@ -1,13 +1,13 @@
 <h1 align="center">Time tracking dashboard</h1>
 <div align="center">
 
-Challenge from [Frontend Mentor](https://www.frontendmentor.io/profile/CodePapa360)
+Challenge from [Frontend Mentor](https://www.frontendmentor.io/profile/CodeWithAlamin)
 
 </div>
 
 <h2 align="center">
 
-[🚀Live Site](https://time-tracking-dashboard-codepapa360.netlify.app/)
+[🚀Live Site](https://time-tracking-dashboard-alamin.netlify.app/)
 |
 [💡Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-time-tracking-dashboard-6LzWWJGKGM)
 
@@ -17,9 +17,9 @@ Challenge from [Frontend Mentor](https://www.frontendmentor.io/profile/CodePapa3
 A practice project from Frontend Mentor, showcasing a dynamic time tracking dashboard. Implementing HTML, SASS, and JavaScript, it offers daily, weekly, and monthly views with current and previous time data.
 </p>
 
-<a align="center" href="https://time-tracking-dashboard-codepapa360.netlify.app/">
+<a align="center" href="https://time-tracking-dashboard-alamin.netlify.app/">
 
-![Screenshot](./screenshots/Time-tracking-dashboard-screenshot-codepapa360.png)
+![Screenshot](./screenshots/Time-tracking-dashboard-screenshot-CodeWithAlamin.png)
 
 </a>
 
@@ -67,7 +67,7 @@ In summary, this project provided an opportunity for me to further advance my fr
 - Clone this repo:
 
 ```sh
-git clone https://github.com/CodePapa360/Time-tracking-dashboard.git
+git clone https://github.com/CodeWithAlamin/Time-tracking-dashboard.git
 ```
 
 - Install dependencies:
@@ -92,10 +92,10 @@ npm start
 
 <b>👤 Alamin</b>
 
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
-- Github: [@CodePapa360](https://github.com/codepapa360)
+- Twitter - [@CodeWithAlamin](https://www.twitter.com/CodeWithAlamin)
+- LinkedIn - [@CodeWithAlamin](https://www.linkedin.com/in/CodeWithAlamin)
+- Frontend Mentor - [@CodeWithAlamin](https://www.frontendmentor.io/profile/CodeWithAlamin)
+- Github: [@CodeWithAlamin](https://github.com/CodeWithAlamin)
 
 Feel free to contact me with any questions or feedback!
 
@@ -109,4 +109,4 @@ Special thanks to Frontend Mentor for providing such an amazing platform to prac
 
 ## License
 
-This project is licensed under the [MIT](https://github.com/CodePapa360/Time-tracking-dashboard/blob/main/LICENSE.md) license, which means you can use, modify, and distribute the code as you wish. If you have any questions or feedback, feel free to reach out. Thank you for considering my code!
+This project is licensed under the [MIT](https://github.com/CodeWithAlamin/Time-tracking-dashboard/blob/main/LICENSE.md) license, which means you can use, modify, and distribute the code as you wish. If you have any questions or feedback, feel free to reach out. Thank you for considering my code!
